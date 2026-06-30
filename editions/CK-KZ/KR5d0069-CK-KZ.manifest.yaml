@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0069/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5d0069/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 悟玄篇
+  date: '2015-08-29 02:03:04.458417'
+  source:
+    repository: kanripo
+    path: KR5d0069
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0069_000-CK-KZ.yaml, hash: 'sha256:f426690db0be6ad443a1e92cd458366465ee43ee639f4e872ae12b9f5cf5e71b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0069_000-CK-KZ.markers.yaml, hash: 'sha256:942106c62e23727378887d19bf68d57176748a816ee5847269e9b97be53c9603'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0069_CK-KZ_01p052a
+    span:
+    - body
+    - 0
+    - 2863
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:6a9aa8a4008f6a8138344143b218856d5dc59fb99ef58e67c6ff1ced0cde1ec4
